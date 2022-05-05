@@ -1,7 +1,7 @@
 
 ## HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY HCMUT - BACH KHOA, VIETNAM NATIONAL UNIVERSITY - HO CHI MINH
 ## SOFTWARE ENGINEERING PROJECT - SEMESTER 212
-# Restaurant POS System 2.0
+# Restaurant POS System 3.0
 
 **Contains:**
 * [About the team](#about-the-team)

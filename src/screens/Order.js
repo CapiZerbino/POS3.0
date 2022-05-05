@@ -20,7 +20,7 @@ function Order() {
     async function fetchdata() {
       try {
         const response = await axios.get(
-          `https://5449-171-247-180-165.ap.ngrok.io/api/menu`
+          `https://d83e-171-247-180-165.ap.ngrok.io/api/menu`
         );
         // const response = data;
         // setListProduct(response);

@@ -84,7 +84,7 @@ function Checkout(props) {
       }),
     };
     axios
-      .post(`https://test.greenup.com.vn/api/order`, JSON.stringify(obj))
+      .post(`https://d83e-171-247-180-165.ap.ngrok.io/api/order`, JSON.stringify(obj))
       .then((res) => {
         console.log(res);
       })
@@ -104,7 +104,7 @@ function Checkout(props) {
           borderBottom: (t) => `1px solid ${t.palette.divider}`,
         }}
       >
-        <LogoHeader text="Lau Chay Restaurant" type="Checkout"></LogoHeader>
+        <LogoHeader text="POS 3.0 System" type="Checkout"></LogoHeader>
       </AppBar>
       <Container component="main" maxWidth="sm" sx={{ mb: 4 }}>
         <Paper
